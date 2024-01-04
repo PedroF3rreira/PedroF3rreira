@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Pedro Daneil! 👋
+# Olá, eu sou o Pedro Daneil desenvolvedor web! 👋
 
 
 ## 🚀 Sobre mim
