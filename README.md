@@ -18,3 +18,4 @@ Javascript, HTML, CSS, PHP, .NET e Banco de dados MYSQL
 ## Linguagens usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroF3rreira&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
+
