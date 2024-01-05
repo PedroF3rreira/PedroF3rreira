@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre mim
 Sou aspirtante a desenvolvedor web, estou cursando Analise e desenvolvimeto de sistemas na UniFBV tenho paixão pela área de tecnologia em geral, mas no momento estou me dedicando a desenvolvimento web.
-
-
+## Git Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroF3rreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCF&text_color=FFF)
 
 ## 🔗 Contatos
 
@@ -17,7 +17,4 @@ Javascript, HTML, CSS, PHP, .NET e Banco de dados MYSQL
 
 ## Linguagens usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroF3rreira&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
-
-## Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroF3rreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCF&text_color=FFF)
 
