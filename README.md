@@ -3,7 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Sou aspirtante a desenvolvedor web, estou cursando Analise e desenvolvimeto de sistemas na UniFBV tenho paixão pela área de tecnologia em geral, mas no momento estou me dedicando a desenvolvimento web.
+Sou aspirante a desenvolvedor, web, estou cursando Analise e desenvolvimento de sistemas na UniFBV tenho paixão pela área de tecnologia em geral, mas no momento estou me dedicando a desenvolvimento web.
+
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroF3rreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCF&text_color=FFF)
 
