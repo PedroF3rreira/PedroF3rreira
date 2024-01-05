@@ -13,12 +13,12 @@ Sou aspirtante a desenvolvedor web, estou cursando Analise e desenvolvimeto de s
 [![Gmail](https://img.shields.io/badge/Gmail-d91427?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:pedro.edu1993@gmail.com)
 
 ## 🛠 Minhas Habilidades
--Javascript
--HTML 
--CSS
--PHP
--.NET 
--Banco de dados MYSQL
+- Javascript
+- HTML 
+- CSS
+- PHP
+- .NET 
+- Banco de dados MYSQL
 
 ## Linguagens usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroF3rreira&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
