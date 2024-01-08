@@ -22,4 +22,4 @@ Sou aspirante a desenvolvedor, web, estou cursando Analise e desenvolvimento de 
 - Banco de dados MYSQL
 
 ## Linguagens usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroF3rreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCF&text_color=FFF)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroF3rreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DCF&text_color=FFF)(https://github.com/PedroF3rreira/PedroF3rreira)]
